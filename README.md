@@ -65,6 +65,14 @@ Data
 </p>
 
 
+
+### Search history
+
+<p align="center">
+  <img src="screenshots/search_history.png" width="220"/>
+</p>
+
+
 ### Movie Details
 
 <p align="center">
