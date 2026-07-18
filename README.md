@@ -121,10 +121,10 @@ git clone https://github.com/medmoan/MoviesCatalog.git
 
 2. Open the project in Android Studio.
 
-3. Add your TMDB API key:
+3. Add your TMDB API key in local.properties file:
 
 ```kotlin
-const val API_KEY = "YOUR_API_KEY"
+TMDB_API_KEY=YOUR_API_KEY
 ```
 
 4. Run the application.
