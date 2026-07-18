@@ -54,7 +54,7 @@ Data
 ### Trending Movies
 
 <p align="center">
-  <img src="screenshots/trending_movie.png" width="220"/>
+  <img src="screenshots/trending_movies.png" width="220"/>
 </p>
 
 
